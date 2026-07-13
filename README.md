@@ -2,7 +2,9 @@
 
 # LeetCode Solutions
 
-<img src=".github/ISSUE_TEMPLATE/leetcode.png" alt="LeetCode Solutions Logo" width="180">
+<p align="center">
+  <img src=".github/ISSUE_TEMPLATE/leetcode.png" alt="LeetCode Solutions Banner" width="1200">
+</p>
 
 </div>
 <br>
