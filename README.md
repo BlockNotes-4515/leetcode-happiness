@@ -2,10 +2,10 @@
 
 # LeetCode Solutions
 
-<img src="Images/DHRUVCO.png" alt="LeetCode Solutions Logo" width="180">
+<img src="ISSUE_TEMPLATE/DHRUVCO.png" alt="LeetCode Solutions Logo" width="180">
 
 </div>
-
+<br>
 A curated collection of my **LeetCode** solutions in **Java**, focused on Data Structures, Algorithms, and coding interview preparation.
 
 ## Tech Stack
