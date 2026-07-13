@@ -2,7 +2,7 @@
 
 # LeetCode Solutions
 
-<img src="ISSUE_TEMPLATE/DHRUVCO.png" alt="LeetCode Solutions Logo" width="180">
+<img src="ISSUE_TEMPLATE/leetcode.png" alt="LeetCode Solutions Logo" width="180">
 
 </div>
 <br>
