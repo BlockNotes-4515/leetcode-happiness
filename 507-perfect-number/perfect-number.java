@@ -2,7 +2,7 @@ class Solution {
     public boolean checkPerfectNumber(int num) {
         
         int n=num;
-        if(n<-0)
+        if(n<=0)
         return false;
 
         int sum=0;
