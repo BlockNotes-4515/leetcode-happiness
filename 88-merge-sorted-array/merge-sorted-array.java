@@ -1,27 +1,26 @@
 class Solution{
-    public void merge(int A[], int m, int B[], int n){
+    public void merge(int[] nums1, int m, int[] nums2, int n){
 
-        //Declaration of the variables.
+        //Declaration of the Variables.
         int i=m-1;
         int j=n-1;
         int k=(m+n)-1;
-        //int C[]=new int[];
 
-        //Merging of the two sorted arrays.
+        //Merging of the two Sorted Arrays/
         while(i>=0 && j>=0){
-            if(A[i]>B[j]){
-                A[k]=A[i];
+            if(nums1[i]>nums2[j]){
+                nums1[k]=nums1[i];
                 i--;
             }
             else{
-                A[k]=B[j];
+                nums1[k]=nums2[j];
                 j--;
             }
             k--;
         }
-        //Possibility of large array merging.
+        //Possibility of the merging approach if time complexity long.
         while(j>=0){
-            A[k]=B[j];
+            nums1[k]=nums2[j];
             j--;
             k--;
         }
