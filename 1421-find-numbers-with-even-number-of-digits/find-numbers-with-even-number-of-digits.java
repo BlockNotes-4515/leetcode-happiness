@@ -11,7 +11,7 @@ class Solution {
                 num=num/10;
             }
             if(digits%2==0){
-                count++;
+                count=count+1;
             }
         }
         return count;
