@@ -1,1 +1,1 @@
-<h2>check-if-n-and-its-double-exist Notes</h2><hr>[ Time taken: 18m 12s ]
+<h2>check-if-n-and-its-double-exist Notes</h2><hr>[ Time taken: 30s ]
