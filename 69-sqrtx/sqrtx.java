@@ -8,6 +8,7 @@ class Solution {
         int right=x;
         while(left<=right){
             int mid=left+(right-left)/2;
+            
             if((long)mid*mid==(long)x){
                 return mid;
             }
