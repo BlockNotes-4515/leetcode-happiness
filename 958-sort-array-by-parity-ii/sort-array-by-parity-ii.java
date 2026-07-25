@@ -1,9 +1,10 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
-
+        
         int even=0;
         int odd=1;
         while(even<nums.length && odd<nums.length){
+            
             while(even<nums.length && nums[even]%2==0){
                 even+=2;
             }
