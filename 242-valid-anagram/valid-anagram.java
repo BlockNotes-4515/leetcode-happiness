@@ -4,13 +4,13 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char ch[]=s.toCharArray();
+        char ch1[]=s.toCharArray();
         char ch2[]=t.toCharArray();
 
-        //Sorting an array then....
-        Arrays.sort(ch);
+        //Sorting an char array
+        Arrays.sort(ch1);
         Arrays.sort(ch2);
 
-        return Arrays.equals(ch,ch2);
+        return Arrays.equals(ch1,ch2);
     }
 }
