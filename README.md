@@ -36,9 +36,8 @@ leetcode-solutions/
 
 *A real-time catalog of optimized LeetCode solutions automatically synchronized via [LeetSync](https://github.com/Baal26/LeetSync).*
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BlockNotes--4515-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BlockNotes-4515/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-DhruvDhayal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvDhayal)
-[![Automated Sync](https://img.shields.io/badge/Sync-LeetSync--Engine-blue?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-dhayaldhruv274-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhayaldhruv274/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-BlockNotes-4515-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvDhayal)
 
 ---
 
@@ -62,25 +61,17 @@ leetcode-solutions/
 
   <!-- GitHub Commit Streak -->
   <a href="https://github.com/DhruvDhayal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvDhayal&theme=dark&hide_border=true" alt="Dhruv's Streak" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark&hide_border=true" alt="Dhruv's Streak" width="80%" />
   </a>
 
   <br /><br />
 
   <!-- Continuous Contribution Wave Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvDhayal&theme=github-dark&hide_border=true" alt="Daily Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&theme=github-dark&hide_border=true" alt="Daily Contribution Graph" width="100%" />
 
 </div>
 
 ---
-
-## 🛠️ Tech Stack & Automation Mechanics
-
-```text
-┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
-│   LeetCode      │  ───> │    LeetSync     │  ───> │     GitHub      │
-│ (Submit Soln)   │       │  (Extension)    │       │ (Auto Commit)   │
-└─────────────────┘       └─────────────────┘       └─────────────────┘
 
 
 ⭐ If you find this repository helpful, consider giving it a star.
