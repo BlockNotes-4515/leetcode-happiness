@@ -32,26 +32,55 @@ leetcode-solutions/
 
 <div align="center">
 
-  ## 🟩 LeetCode Submission & Activity Grid
+# ⚡ LeetCode Automated Submissions
 
-  <!-- LeetCode Stats Card -->
-  <img src="https://leetcode-badge.app/api/users/BlockNotes-4515" alt="LeetCode Activity Grid" />
+*A real-time catalog of optimized LeetCode solutions automatically synchronized via [LeetSync](https://github.com/Baal26/LeetSync).*
 
-  <br /><br />
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BlockNotes--4515-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BlockNotes-4515/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-DhruvDhayal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvDhayal)
+[![Automated Sync](https://img.shields.io/badge/Sync-LeetSync--Engine-blue?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
-  ## 🔥 GitHub Auto-Push Commit Streak (via LeetSync)
+---
 
-  <!-- GitHub Commit Streak Stats -->
+### 📊 Live Analytics & Activity Grid
+
+<p align="center">
+  <!-- LeetCode Live Activity & Difficulty Matrix -->
+  <img src="https://leetcode-badge.app/api/users/BlockNotes-4515" alt="LeetCode Activity Grid" width="49%" />
+  
+  <!-- LeetCode Problem Solved Stats Card -->
+  <img src="https://leetcode-stats-card.herokuapp.com/BlockNotes-4515" alt="LeetCode Problem Stats" width="49%" />
+</p>
+
+</div>
+
+<br />
+
+## 📈 Auto-Push GitHub Streak & Activity Metrics
+
+<div align="center">
+
+  <!-- GitHub Commit Streak -->
   <a href="https://github.com/DhruvDhayal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark" alt="Dhruv's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvDhayal&theme=dark&hide_border=true" alt="Dhruv's Streak" width="80%" />
   </a>
 
   <br /><br />
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&theme=github-dark" alt="Dhruv's Daily Contribution Graph" />
+  <!-- Continuous Contribution Wave Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvDhayal&theme=github-dark&hide_border=true" alt="Daily Contribution Graph" width="100%" />
 
 </div>
+
+---
+
+## 🛠️ Tech Stack & Automation Mechanics
+
+```text
+┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
+│   LeetCode      │  ───> │    LeetSync     │  ───> │     GitHub      │
+│ (Submit Soln)   │       │  (Extension)    │       │ (Auto Commit)   │
+└─────────────────┘       └─────────────────┘       └─────────────────┘
 
 
 ⭐ If you find this repository helpful, consider giving it a star.
