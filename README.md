@@ -32,24 +32,12 @@ leetcode-solutions/
 
 <div align="center">
 
-# ⚡ LeetCode Automated Submissions
+# Connect on LeetCode Let's Solve Together
 
 *A real-time catalog of optimized LeetCode solutions automatically synchronized via [LeetSync](https://github.com/Baal26/LeetSync).*
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-dhayaldhruv274-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhayaldhruv274/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-BlockNotes-4515-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlockNotes-4515)
-
 ---
-
-### 📊 Live Analytics & Activity Grid
-
-<p align="center">
-  <!-- LeetCode Live Activity & Difficulty Matrix -->
-  <img src="https://leetcode-badge.app/api/users/BlockNotes-4515" alt="LeetCode Activity Grid" width="49%" />
-  
-  <!-- LeetCode Problem Solved Stats Card -->
-  <img src="https://leetcode-stats-card.herokuapp.com/BlockNotes-4515" alt="LeetCode Problem Stats" width="49%" />
-</p>
 
 </div>
 
