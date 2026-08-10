@@ -37,7 +37,7 @@ leetcode-solutions/
 *A real-time catalog of optimized LeetCode solutions automatically synchronized via [LeetSync](https://github.com/Baal26/LeetSync).*
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-dhayaldhruv274-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhayaldhruv274/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-BlockNotes-4515-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvDhayal)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-BlockNotes-4515-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlockNotes-4515)
 
 ---
 
@@ -55,7 +55,6 @@ leetcode-solutions/
 
 <br />
 
-## 📈 Auto-Push GitHub Streak & Activity Metrics
 
 <div align="center">
 
