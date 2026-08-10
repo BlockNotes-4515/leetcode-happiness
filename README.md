@@ -30,7 +30,28 @@ leetcode-solutions/
 
 ---
 
-[![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+
+  ## 🟩 LeetCode Submission & Activity Grid
+
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcode-badge.app/api/users/BlockNotes-4515" alt="LeetCode Activity Grid" />
+
+  <br /><br />
+
+  ## 🔥 GitHub Auto-Push Commit Streak (via LeetSync)
+
+  <!-- GitHub Commit Streak Stats -->
+  <a href="https://github.com/DhruvDhayal">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark" alt="Dhruv's GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&theme=github-dark" alt="Dhruv's Daily Contribution Graph" />
+
+</div>
 
 
 ⭐ If you find this repository helpful, consider giving it a star.
