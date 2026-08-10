@@ -30,4 +30,6 @@ leetcode-solutions/
 
 ---
 
+[![Dhruv's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvDhayal&theme=dark)](https://git.io/streak-stats)
+
 ⭐ If you find this repository helpful, consider giving it a star.
