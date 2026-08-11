@@ -47,9 +47,19 @@ leetcode-solutions/
 <div align="center">
 
   <!-- GitHub Commit Streak -->
-  <a href="https://github.com/DhruvDhayal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark&hide_border=true" alt="Dhruv's Streak" width="80%" />
+  <h2 align="center">
+  <code>root@dhruv:~$ ./github_streak</code>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/BlockNotes-4515">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41"
+      alt="Dhruv's GitHub Streak"
+      width="80%"
+    />
   </a>
+</p>
 
   <br /><br />
 
