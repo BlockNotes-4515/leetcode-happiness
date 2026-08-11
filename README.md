@@ -48,7 +48,8 @@ leetcode-solutions/
 
   <!-- GitHub Commit Streak -->
   <h2 align="center">
-  <code>root@dhruv:~$ ./github_streak</code>
+  <code>SELECT * FROM WORLD; 
+        WHERE SOMEONE LIKES YOU;</code>
 </h2>
 
 <p align="center">
