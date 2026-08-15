@@ -37,37 +37,43 @@ leetcode-solutions/
     Reduce the last-minute hassle, stay calm, keep a clear mind,
     and give your best. <b>You're gonna crush it!</b>
 </p>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <table style="text-align: center; border-collapse: collapse; width: 80%;">
+        <thead>
+            <tr>
+                <th>🔗 Reference</th>
+                <th>📌 Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    🔗
+                    <a href="https://github.com/nishant-Tiwari24/company-wise-dsa"
+                       target="_blank">
+                        Company-Wise DSA — Nishant Tiwari
+                    </a>
+                </td>
+                <td>
+                    Company-wise DSA problems for targeted revision
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    🔗
+                    <a href="https://github.com/hardeepmty/Company-Wise-DSA"
+                       target="_blank">
+                        Company-Wise DSA — Hardeep Mty
+                    </a>
+                </td>
+                <td>
+                    Company-wise LeetCode/DSA problem collection
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-<table>
-    <thead>
-        <tr>
-            <th>🔗 Reference</th>
-            <th>📌 Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                🔗
-                <a href="https://github.com/nishant-Tiwari24/company-wise-dsa"
-                   target="_blank">
-                    Company-Wise DSA — Nishant Tiwari
-                </a>
-            </td>
-            <td>Company-wise DSA problems for targeted revision</td>
-        </tr>
-        <tr>
-            <td>
-                🔗
-                <a href="https://github.com/hardeepmty/Company-Wise-DSA"
-                   target="_blank">
-                    Company-Wise DSA — Hardeep Mty
-                </a>
-            </td>
-            <td>Company-wise LeetCode/DSA problem collection</td>
-        </tr>
-    </tbody>
-</table>
 
 
 <div align="center">
