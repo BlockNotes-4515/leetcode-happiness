@@ -72,8 +72,7 @@ leetcode-solutions/
             </tr>
         </tbody>
     </table>
-<br><br>
-
+<br>
 
 <div align="center">
 
@@ -86,7 +85,7 @@ leetcode-solutions/
 
 </div>
 
-<br />
+<br/>
 
 
 <div align="center">
