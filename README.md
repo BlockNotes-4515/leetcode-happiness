@@ -37,8 +37,8 @@ leetcode-solutions/
     Reduce the last-minute hassle, stay calm, keep a clear mind,
     and give your best. <b>You're gonna crush it!</b>
 </p>
-<div style="display: flex; justify-content: center; width: 100%;">
-    <table style="text-align: center; border-collapse: collapse; width: 80%;">
+<br>
+    <table align="center">
         <thead>
             <tr>
                 <th>🔗 Reference</th>
@@ -72,7 +72,6 @@ leetcode-solutions/
             </tr>
         </tbody>
     </table>
-</div>
 
 
 
