@@ -29,6 +29,47 @@ leetcode-solutions/
 - Prepare for software engineering interviews.
 
 ---
+<h2>📚 Company-Wise DSA Sheets — Last-Minute Revision</h2>
+
+<p>
+    These company-wise DSA sheets are useful for 
+    <b>last-minute revision</b> before coding rounds and placements.
+    Reduce the last-minute hassle, stay calm, keep a clear mind,
+    and give your best. <b>You're gonna crush it!</b>
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>🔗 Reference</th>
+            <th>📌 Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                🔗
+                <a href="https://github.com/nishant-Tiwari24/company-wise-dsa"
+                   target="_blank">
+                    Company-Wise DSA — Nishant Tiwari
+                </a>
+            </td>
+            <td>Company-wise DSA problems for targeted revision</td>
+        </tr>
+
+        <tr>
+            <td>
+                🔗
+                <a href="https://github.com/hardeepmty/Company-Wise-DSA"
+                   target="_blank">
+                    Company-Wise DSA — Hardeep Mty
+                </a>
+            </td>
+            <td>Company-wise LeetCode/DSA problem collection</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <div align="center">
 
