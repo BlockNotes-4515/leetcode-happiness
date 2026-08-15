@@ -18,7 +18,7 @@ class Solution {
             }
             map.put(nums2[i],greater);
         }
-        //Comparing it with the nums1 array
+        //Compare it with the nums1 elements
         int[] ans=new int[nums1.length];
         for(int i=0;i<nums1.length;i++){
             ans[i]=map.get(nums1[i]);
