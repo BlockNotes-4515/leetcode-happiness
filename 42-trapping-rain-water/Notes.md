@@ -1,1 +1,1 @@
-<h2>trapping-rain-water Notes</h2><hr>[ Time taken: 25m 40s ]
+<h2>trapping-rain-water Notes</h2><hr>[ Time taken: 4m 21s ]
