@@ -1,12 +1,12 @@
 class Solution {
     public int trap(int[] height) {
-        
-        //By, using the bruteforce approach
+
+        //By, using the brute force approach
         int water=0;
-        for(int i=0;i<=height.length-1;i++){
+        for(int i=1;i<height.length-1;i++){
 
             int curr=height[i];
-            
+
             int leftMax=curr;
             int rightMax=curr;
 
@@ -20,7 +20,7 @@ class Solution {
                     break;
                 }
             }
-            water=water+Math.min(leftMax,rightMax)-curr;   
+            water=water+Math.min(leftMax,rightMax)-curr;
         }
         return water;
     }
