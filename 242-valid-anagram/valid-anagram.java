@@ -18,18 +18,16 @@ class Solution {
         return Arrays.equals(ch1,ch2);
         */
         // Second Approach here given
-        int freq[]=new int[26];
-
-        for(char c:s.toCharArray()){
-            int indx=c-'a';
-            freq[indx]=freq[indx]+1;
+        if(s.length()!=t.length()){
+            return false;
         }
-        for(char c:t.toCharArray()){
-            int indx=c-'a';
-            freq[indx]=freq[indx]-1;
+        char[] charCount=new char[26];
+        for(int i=0;i<s.length();i++){
+            charCount[s.charAt(i)-'a']++;
+            charCount[t.charAt(i)-'a']--;
         }
-        for(int i=0;i<26;i++){
-            if(freq[i]!=0){
+        for(int count:charCount){
+            if(count!=0){
                 return false;
             }
         }
