@@ -1,6 +1,6 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
-        
+
         int n=nums.length;
 
         for(int i=0;i<n;i++){
@@ -8,7 +8,6 @@ class Solution {
         }
 
         Arrays.sort(nums);
-
         long sum=0;
         int mid=n/2;
 
