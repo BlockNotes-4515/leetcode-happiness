@@ -2,13 +2,11 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         
         int n=nums.length;
-        int result[]=new int[n];
-        for(int i=0;i<n;i++){
+        int[] result=new int[n];
 
-            //Squaring of all items in an array.
-            result[i]=nums[i]*nums[i];
+        for(int i=0;i<n;i++){
+            result[i]=(nums[i]*nums[i]);
         }
-        //Sort the array simply.
         Arrays.sort(result);
         return result;
     }
