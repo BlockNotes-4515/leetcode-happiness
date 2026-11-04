@@ -10,6 +10,7 @@ class Solution {
                 max=nums[i];
             }
         }
+
         for(int i=0;i<n;i++){
             moves+=(max-nums[i]);
         }
