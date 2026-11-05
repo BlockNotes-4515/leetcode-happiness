@@ -17,6 +17,8 @@ public class Solution {
         }
         ListNode slow=head;
         ListNode fast=head;
+        int pos=0;
+
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
