@@ -10,8 +10,8 @@ class Solution {
             set.add(n);
             int sum=0;
             while(n>0){
-                int digits=n%10;
-                sum+=digits*digits;
+                int digit=n%10;
+                sum+=(digit*digit);
                 n=n/10;
             }
             n=sum;
