@@ -22,7 +22,7 @@ class Solution {
         */
 
         //Optimized Approach using where we specially handle the negative values
-
+        /*
         int n=nums.length;
         int left=0;
         int prod=nums[0];
@@ -42,5 +42,23 @@ class Solution {
             max=Math.max(max,prod);
         }
         return max;
+        */
+        int n=nums.length;
+        int maxending=nums[0];
+        int minending=nums[0];
+        int ans=nums[0];
+
+        for(int i=1;i<n;i++){
+
+            int v1=nums[i];
+            int v2=maxending*nums[i];
+            int v3=minending*nums[i];
+
+            maxending=Math.max(v1,Math.max(v2,v3));
+            minending=Math.min(v1,Math.min(v2,v3));
+
+            ans=Math.max(ans,Math.max(maxending,minending));
+        }
+        return ans;
     }
 }
